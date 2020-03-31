@@ -1,0 +1,3 @@
+[submodule "task-description"]
+	path = task-description
+	url = https://github.com/fdnd/task-description.git
