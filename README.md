@@ -1,9 +1,8 @@
 # task
 It's a template repository for creating tasks
 
-## Track changes in template repository
+## Recurse submodules and track template repository changes into generated repository 
 
-In generated repository:
 ```
 git remote add template [URL of the template repo]
 git fetch --all
