@@ -25,7 +25,7 @@ tags:
   - tags
 # burn-points determine the weight of a task, 0 is easy and
 # probably fast, 144 takes a whole sprint
-burn-points: nummeriek_0-144
+burn-points: 0-144
 ---
 
 # Een titel
