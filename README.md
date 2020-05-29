@@ -2,7 +2,17 @@
 Template repository used for creating FDND tasks.
 
 ## Standard repository structure
+We use a standard folder structure which is described in [fdnd/conventions/folder-structure.md](https://github.com/fdnd/conventions/blob/master/folder-structure.md)
 
+    .
+    ├── build                   # Compiled bestanden of de publicatie van een website
+    ├── docs                    # Documentatie
+    ├── src                     # Bronbestanden
+    ├── test                    # Geautomatiseerde tests
+    ├── CHANGELOG.md            # Lijst van noemenswaardige aanpassingen (zie changelog.md)
+    ├── LICENSE                 # Licentiemodel (zie license.md)
+    ├── README.md               # Beschrijving van het project (zie readme.md)
+    └── TODO.md                 # Uit te voeren stappen om een taak te volbrengen (zie todo.md)
 
 
 # Front Matter in .description
