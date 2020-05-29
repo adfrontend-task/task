@@ -1,19 +1,8 @@
 # Task (template)
 Template repository used for creating FDND tasks.
 
-## Standard repository structure
-We use a standard folder structure which is described in [fdnd/conventions/folder-structure.md](https://github.com/fdnd/conventions/blob/master/folder-structure.md)
-
-    .
-    ├── build                   # Compiled bestanden of de publicatie van een website
-    ├── docs                    # Documentatie
-    ├── src                     # Bronbestanden
-    ├── test                    # Geautomatiseerde tests
-    ├── CHANGELOG.md            # Lijst van noemenswaardige aanpassingen (zie changelog.md)
-    ├── LICENSE                 # Licentiemodel (zie license.md)
-    ├── README.md               # Beschrijving van het project (zie readme.md)
-    └── TODO.md                 # Uit te voeren stappen om een taak te volbrengen (zie todo.md)
-
+## Folder structure
+We use a standard folder structure following convention described in [conventions/folder-structure.md](https://github.com/fdnd/conventions/blob/master/folder-structure.md). Feel free to remove these folders if you're creating a task without scaffolding.
 
 # Front Matter in .description
 De leertaak wordt aan het curriculum gekoppeld door de gegevens in het bestand (.description)[.description]. Vul dit zo goed mogelijk in om taakaggregatie mogelijk te maken.
