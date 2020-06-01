@@ -7,7 +7,7 @@ Task uses a standard folder structure following convention described in [convent
 ## .description
 This task is hooked up to the FDND curriculum using [yaml front matter](https://assemble.io/docs/YAML-front-matter.html) in the [.description](.description) file.
 
-```
+```YAML
 ---
 title: "descriptive title"          # Same as repo name but with spaces and caps 
 description: "short description"    # Max. 280 characters in description
