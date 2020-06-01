@@ -1,16 +1,16 @@
 ---
 title: "descriptive title"
-description: "short description of the task (180 chars)"
+description: "short description (280 chars)"
 semester: 1-4
-taskclass: "taskclass this task belongs to"
-level: 1-5
+taskclass: "taskclass name"
+support-level: 1-5
 behavior-criteria:
-  collaboration: 0-5
-  learning-capacity: 0-5
-  problem-solving: 0-5
-  act-methodically: 0-5
-  communicating: 0-5
-collaborators: 0-8
+  collaboration: 0-6
+  learning-capacity: 0-6
+  problem-solving: 0-6
+  act-methodically: 0-6
+  communicating: 0-6
+collaborators: 1-8
 tags:
   - list
   - of
