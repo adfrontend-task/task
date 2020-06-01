@@ -29,3 +29,9 @@ tags:                               # tags can be used to categorize tasks
 burn-points: 1-144                  # burn-points determine the weight of a task
 ---
 ```
+
+## License
+
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+This work is licensed under [GNU GPLv3](./LICENSE).
