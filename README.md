@@ -9,56 +9,23 @@ This task is hooked up to the FDND curriculum using [yaml front matter](https://
 
 ```
 ---
-title: "descriptive title"                      # same as repo name but with spaces and caps 
-description: "short description of the task"    # max. 280 characters in description
-semester: 1-4                                   # please choose only one semester
-taskclass: "taskclass this task belongs to"     # this will be used together with
-support-level: 1-5                              # 1: example, 2: duplicate, 3: experiment, 4: extension, 5: autonomous
-behavior-criteria:                              #
-  collaboration: 0-5                            #
-  learning-capacity: 0-5                        #
-  problem-solving: 0-5                          #
-  act-methodically: 0-5                         #
-  communicating: 0-5                            #
-collaborators: 0-8                              #
-tags:                                           #
-  - list
+title: "descriptive title"                      # Same as repo name but with spaces and caps 
+description: "short description of the task"    # Max. 280 characters in description
+semester: 1-4                                   # Please choose only one semester
+taskclass: "taskclass this task belongs to"     # Taskclassses group tasks together in a semester, use a unique name
+support-level: 1-5                              # 1:example, 2:duplicate, 3:experiment, 4:extension, 5:autonomous
+behavior-criteria:                              # These criteria determine the skill level of a task
+  collaboration: 0-6                            # compared to the whole curriculum on a 6 point scale.
+  learning-capacity: 0-6                        # Make sure you understand the levels before changing
+  problem-solving: 0-6                          # these in a task. In general 0-2 will be used for tasks
+  act-methodically: 0-6                         # in semester 1 (static web), 3-4 for tasks in semester 2
+  communicating: 0-6                            # (data driven), 5-6 for tasks in semester 3 (wtf?!).
+collaborators: 1-8                              # How big is the team with wich to adress this task.
+tags:                                           # tags can be used to categorize tasks
+  - list                                        
   - of
   - usefull
   - tags
-burn-points: 1-144                              #
----
-
----
-
-semester: 1-4
-# taskclass will be used to group tasks together in a semester
-# make sure you use a unique name
-taskclass: "naam van taakklasse voor bundeling van taken"
-# level determines the order of tasks in a taskclass
-level: 0-5
-# these criteria determine the skill level of a task compared
-# to the whole curriculum on a 6 point scale. Read the Rubric!
-behavior-criteria:
-  collaboration: 0-5
-  learning-capacity: 0-5
-  problem-solving: 0-5
-  act-methodically: 0-5
-  communicating: 0-5
-# how many students will work on this task, 0 for individual
-collaborators: 0-8
-# tags are used to categorize tasks
-tags:
-  - opsomming
-  - van
-  - tags
-# burn-points determine the weight of a task, 0 is easy and
-# probably fast, 144 takes a whole sprint
-burn-points: 0-144
+burn-points: 1-144                              # burn-points determine the weight of a task
 ---
 ```
-
-# Een titel
-Hier een heldere beschrijving van de taak. Je kunt volledige markdown syntax en links gebruiken maar geen afbeeldingen!
-
-
