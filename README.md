@@ -5,7 +5,7 @@ Template repository used for creating FDND tasks.
 Task uses a standard folder structure following convention described in [conventions/folder-structure.md](https://github.com/fdnd/conventions/blob/master/folder-structure.md). Feel free to remove folders if you're creating a task without scaffolding.
 
 ## .description
-This task is hooked up to the FDND curriculum using (yaml front matter)[https://assemble.io/docs/YAML-front-matter.html].
+This task is hooked up to the FDND curriculum using [yaml front matter](https://assemble.io/docs/YAML-front-matter.html).
 
 ```
 ---
