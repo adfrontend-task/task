@@ -2,10 +2,12 @@
 Template repository used for creating FDND tasks.
 
 ## Folder structure
-We use a standard folder structure following convention described in [conventions/folder-structure.md](https://github.com/fdnd/conventions/blob/master/folder-structure.md). Feel free to remove these folders if you're creating a task without scaffolding.
+Task uses a standard folder structure following convention described in [conventions/folder-structure.md](https://github.com/fdnd/conventions/blob/master/folder-structure.md). Feel free to remove folders if you're creating a task without scaffolding.
 
-# Front Matter in .description
-De leertaak wordt aan het curriculum gekoppeld door de gegevens in het bestand (.description)[.description]. Vul dit zo goed mogelijk in om taakaggregatie mogelijk te maken.
+## .description
+This task is hooked up to the FDND curriculum using (yaml front matter)[https://assemble.io/docs/YAML-front-matter.html].
+
+```
 ---
 title: "een titel"
 # max 280 characters in description
@@ -35,6 +37,7 @@ tags:
 # probably fast, 144 takes a whole sprint
 burn-points: 0-144
 ---
+```
 
 # Een titel
 Hier een heldere beschrijving van de taak. Je kunt volledige markdown syntax en links gebruiken maar geen afbeeldingen!
