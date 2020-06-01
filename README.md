@@ -9,9 +9,28 @@ This task is hooked up to the FDND curriculum using [yaml front matter](https://
 
 ```
 ---
-title: "een titel"
-# max 280 characters in description
-description: "korte beschrijving van de taak"
+title: "descriptive title"                      # same as repo name but with spaces and caps 
+description: "short description of the task"    # max. 280 characters in description
+semester: 1-4                                   # please choose only one semester
+taskclass: "taskclass this task belongs to"     # this will be used together with
+support-level: 1-5                              # 1: example, 2: duplicate, 3: experiment, 4: extension, 5: autonomous
+behavior-criteria:                              #
+  collaboration: 0-5                            #
+  learning-capacity: 0-5                        #
+  problem-solving: 0-5                          #
+  act-methodically: 0-5                         #
+  communicating: 0-5                            #
+collaborators: 0-8                              #
+tags:                                           #
+  - list
+  - of
+  - usefull
+  - tags
+burn-points: 1-144                              #
+---
+
+---
+
 semester: 1-4
 # taskclass will be used to group tasks together in a semester
 # make sure you use a unique name
