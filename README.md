@@ -5,7 +5,7 @@ Template repository used for creating FDND tasks. Replace the contents [README.m
 Task uses a standard folder structure following convention described in [conventions/folder-structure.md](https://github.com/fdnd/conventions/blob/master/folder-structure.md). Feel free to remove folders if you're creating a task without scaffolding.
 
 ## .description
-This task is hooked up to the FDND curriculum using [yaml front matter](https://assemble.io/docs/YAML-front-matter.html) in the [.description](.description) file.
+The task you create based upon this template is hooked up to the FDND curriculum using [yaml front matter](https://assemble.io/docs/YAML-front-matter.html) in the [.description](.description) file. Feel free to change all values to put your task in the right place but leave the keys the same.
 
 ```YAML
 ---
