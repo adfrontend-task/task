@@ -1,5 +1,5 @@
 # Task (template)
-Template repository used for creating FDND tasks.
+Template repository used for creating FDND tasks. Replace the contents [README.md](README.md) (this file) when you create a new task.
 
 ## Folder structure
 Task uses a standard folder structure following convention described in [conventions/folder-structure.md](https://github.com/fdnd/conventions/blob/master/folder-structure.md). Feel free to remove folders if you're creating a task without scaffolding.
@@ -12,8 +12,8 @@ This task is hooked up to the FDND curriculum using [yaml front matter](https://
 title: "descriptive title"                      # Same as repo name but with spaces and caps 
 description: "short description of the task"    # Max. 280 characters in description
 semester: 1-4                                   # Please choose only one semester
-taskclass: "taskclass this task belongs to"     # Taskclassses group tasks together in a semester, use a unique name
-support-level: 1-5                              # 1:example, 2:duplicate, 3:experiment, 4:extension, 5:autonomous
+taskclass: "taskclass this task belongs to"     # Taskclassses group tasks together in a semester
+support-level: 1-5                              # 1:example 2:duplicate 3:experiment 4:extension 5:autonomous
 behavior-criteria:                              # These criteria determine the skill level of a task
   collaboration: 0-6                            # compared to the whole curriculum on a 6 point scale.
   learning-capacity: 0-6                        # Make sure you understand the levels before changing
