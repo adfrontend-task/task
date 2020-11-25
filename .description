@@ -1,23 +1,21 @@
 ---
-title: "descriptive title"
-description: "short description (280 chars)"
-semester: 1-4
-taskclass: "taskclass name"
-support-level: 1-5
-behavior-criteria:
-  collaboration: 0-6
-  learning-capacity: 0-6
-  problem-solving: 0-6
-  act-methodically: 0-6
-  communicating: 0-6
-collaborators: 1-8
-tags:
-  - list
-  - of
-  - usefull
-  - tags
-burn-points: 1-144
+title: een_titel
+description: een_korte_beschrijving_van_de_taak
+semester: nummeriek_1-4
+taskclass: keuze_uit_taakklassen_per_semester
+level: nummeriek_niveau_1-5
+behavior-criteria:{
+  collaboration: 0, 
+  learning-capacity: 0, 
+  problem-solving:0, 
+  act-methodically:0, 
+  work-systematically:0,
+  communicating:0
+}
+type: individueel_of_groep
+tags: taakklassen, gescheiden door, komma's
+burn-points: ...
 ---
 
-# Descriptive title
-Try to provide a clear description of the task. You can use full markdown syntaxis and links but please don't use images.
+# Een titel
+Hier tekstueel een heldere beschrijving van de taak.
