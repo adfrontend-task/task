@@ -4,27 +4,26 @@ Template repository used for creating FDND tasks. Replace the contents [README.m
 ## Task instructions (the final readme.md for the derived task)
 ```
 # Naam
-_Introductie over de taak_
 
 ## Context
-_Beschrijving opdrachtgever en context_
+Beschrijving opdrachtgever en context
 
 ## Briefing
-_Beschrijving taak_
+Beschrijving taak
 
 ## Doel van deze opdracht
-_Wat er met de taak moet worden bereikt_
+Wat er met de taak moet worden bereikt
 
 ## Materiaal
-_Bronnen en resources (artikelen, video's, visuals, talks, posters, etc)_
+Bronnen en resources (artikelen, video's, visuals, talks, posters, etc)
 
 ## Werkwijze
-_Instructies over hoe te werk gaan_
-_[Stappen](todo.md)_
-_In meer of mindere mate sturing afhankelijk van het niceau van de taak_
+Instructies over hoe te werk gaan  
+[Stappen](todo.md)  
+In meer of mindere mate sturing afhankelijk van het niceau van de taak
 
 ## Criteria
-_Definitions of done_
+Definitions of done
 
 ## Niveau van deze taak
 
