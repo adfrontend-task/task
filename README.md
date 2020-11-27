@@ -1,6 +1,43 @@
 # Task (template)
 Template repository used for creating FDND tasks. Replace the contents [README.md](README.md) (this file) when you create a new task.
 
+## Task instructions (the final readme.md for the derived task)
+```
+# Naam
+_Introductie over de taak_
+
+## Context
+_Beschrijving opdrachtgever en context_
+
+## Briefing
+_Beschrijving taak_
+
+## Doel van deze opdracht
+_Wat er met de taak moet worden bereikt_
+
+## Materiaal
+_Bronnen en resources (artikelen, video's, visuals, talks, posters, etc)_
+
+## Werkwijze
+_Instructies over hoe te werk gaan_
+_[Stappen](todo.md)_
+_In meer of mindere mate sturing afhankelijk van het niceau van de taak_
+
+## Criteria
+_Definitions of done_
+
+## Niveau van deze taak
+
+|   | Scaffolding | Description |
+| ---: | :----   | :--- |
+| a | Example | Uitgewerkt voorbeeld |
+| b | Duplicate | Immitatietaak |
+| c | Experiment | Taak zonder een specifiek doel |
+| d | Extension | Aanvultaak |
+| e | Autonomous | Taak zonder ondersteuning |
+```
+
+<!-- Remove this 👇 in the final task -->
 ## Folder structure
 Task uses a standard folder structure following convention described in [conventions/folder-structure.md](https://github.com/fdnd/conventions/blob/master/folder-structure.md). Feel free to remove folders if you're creating a task without scaffolding.
 
