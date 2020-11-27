@@ -2,7 +2,7 @@
 Template repository used for creating FDND tasks. Replace the contents [README.md](README.md) (this file) when you create a new task.
 
 ## Task instructions (the final readme.md for the derived task)
-<!-- Remove this ☝️ in the final task -->
+<!-- Remove this 👆 in the final task -->
 ```
 # Naam
 
