@@ -18,9 +18,8 @@ Wat er met de taak moet worden bereikt
 Bronnen en resources (artikelen, video's, visuals, talks, posters, etc)
 
 ## Werkwijze
-Instructies over hoe te werk gaan  
-[Stappen](todo.md)  
-In meer of mindere mate sturing afhankelijk van het niceau van de taak
+Instructies over hoe te werk gaan, verder uitgewerkt in [Stappenplan](todo.md)  
+(In meer of mindere mate sturing afhankelijk van het niveau van de taak)
 
 ## Criteria
 Definitions of done
