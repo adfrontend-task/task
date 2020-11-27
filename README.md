@@ -48,7 +48,7 @@ The task you create based upon this template is hooked up to the FDND curriculum
 title: "descriptive title"          # Same as repo name but with spaces and caps 
 description: "short description"    # Max. 280 characters in description
 semester: 1-4                       # Please choose only one semester
-taskclass: "taskclass name"         # Taskclassses group tasks together in a semester
+sprint: 1 - 18                      # Please choose only one sprint
 support-level: 1-5                  # 1:example 2:duplicate 3:experiment 4:extension 5:autonomous
 behavior-criteria:                  # These criteria determine the skill level of a task
   collaboration: 0-6                # compared to the whole curriculum on a 6 point scale.
