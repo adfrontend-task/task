@@ -2,7 +2,7 @@
 title: een_titel
 description: een_korte_beschrijving_van_de_taak
 semester: nummeriek_1-4
-taskclass: keuze_uit_taakklassen_per_semester
+sprint: keuze_uit_taakklassen_per_semester
 level: nummeriek_niveau_1-5
 behavior-criteria:{
   collaboration: 0, 
