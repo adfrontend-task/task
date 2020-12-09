@@ -10,6 +10,7 @@
   * [Description](#description)
   * [Features](#features)
   * [Installation](#installation)
+  * [Use](#use)
   * [Best practices](#best-practices)
   * [Sources](#sources)
   * [License](#license)
@@ -17,6 +18,8 @@
 ## Features
 
 ## Installation
+
+## Use
 
 ## Best practices
 
