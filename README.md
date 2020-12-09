@@ -10,7 +10,6 @@
   * [Installation](#installation)
   * [Best practices](#best-practices)
   * [Sources](#sources)
-  * [Todo](#todo-✅ )
   * [License](#license)
 
 ## Features
@@ -20,10 +19,6 @@
 ## Best practices
 
 ## Sources
-
-## Todo ✅ 
-- [ ] ...
-- [ ] ...
 
 ## License
 
