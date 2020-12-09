@@ -16,5 +16,5 @@ tags:                               # tags can be used to categorize tasks
   - of
   - usefull
   - tags
-burn-points: 1-144                  # burn-points determine the weight of a task
+burn-points: 1,2,3,5,8,13,21,34,55,89,144  # burn-points determine the weight of a task
 ---
