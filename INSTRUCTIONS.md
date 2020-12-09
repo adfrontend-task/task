@@ -33,7 +33,4 @@ Definitions of done
 | e | Autonomous | Taak zonder ondersteuning |
 ```
 
-<!-- Remove this 👇 in the final task -->
-## Folder structure
-Task uses a standard folder structure following convention described in [conventions/folder-structure.md](https://github.com/fdnd/conventions/blob/master/folder-structure.md). Feel free to remove folders if you're creating a task without scaffolding.
 
