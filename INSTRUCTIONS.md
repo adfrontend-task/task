@@ -1,4 +1,4 @@
-# Task instructions (the final readme.md for the derived task)
+# Task instructions
 <!-- Remove this 👆 in the final task -->
 ```
 # Naam
