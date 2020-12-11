@@ -11,7 +11,7 @@ behavior-criteria:                  # These criteria determine the skill level o
   act-methodically: 0-6             # in semester 1 (static web), 3-4 for tasks in semester 2
   communicating: 0-6                # (data driven), 5-6 for tasks in semester 3 (wtf?!).
 collaborators: 1-8                  # How big is the team with wich to adress this task.
-tags:                               # tags can be used to categorize tasks
+tags:                               # tags can be used to categorize tasks, can be anything
   - list                                        
   - of
   - usefull
