@@ -9,7 +9,7 @@
 ## Inhoudsopgave
 
 - [Titel](#titel)
-  * [Description](#description)
+  * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
   * [Gebruik](#gebruik)
