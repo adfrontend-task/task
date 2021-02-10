@@ -22,8 +22,6 @@
 
 ## Gebruik
 
-## Best practices
-
 ## Bronnen
 
 ## Licentie
