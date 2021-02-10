@@ -13,7 +13,6 @@
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
   * [Gebruik](#gebruik)
-  * [Best practices](#best-practices)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
