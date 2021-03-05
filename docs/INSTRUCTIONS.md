@@ -30,7 +30,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
 
 <details>
-<summary>Werkwijze</summary>
+<summary>Aanpak</summary>
 
 1. {geef de stappen}
 2. {die in deze fase}
@@ -48,7 +48,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 *In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
 
 <details>
-<summary>Werkwijze</summary>
+<summary>Aanpak</summary>
 
 1. {geef de stappen}
 2. {die in deze fase}
@@ -66,7 +66,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 *In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
 
 <details>
-<summary>Werkwijze</summary>
+<summary>Aanpak</summary>
 
 1. {geef de stappen}
 2. {die in deze fase}
@@ -84,7 +84,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 *In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
 
 <details>
-<summary>Werkwijze</summary>
+<summary>Aanpak</summary>
 
 1. {geef de stappen}
 2. {die in deze fase}
@@ -102,7 +102,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
 <details>
-<summary>Werkwijze</summary>
+<summary>Aanpak</summary>
 
 1. {geef de stappen}
 2. {die in deze fase}
