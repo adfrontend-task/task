@@ -36,7 +36,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 2. {die in deze fase}
 3. {doorlopen worden}
 
-#### Resources
+#### Materiaal
 
 - [Resource](https://example.com)
 - [Resource](https://example.com)
@@ -54,7 +54,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 2. {die in deze fase}
 3. {doorlopen worden}
 
-#### Resources
+#### Materiaal
 
 - [Resource](https://example.com)
 - [Resource](https://example.com)
@@ -72,7 +72,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 2. {die in deze fase}
 3. {doorlopen worden}
 
-#### Resources
+#### Materiaal
 
 - [Resource](https://example.com)
 - [Resource](https://example.com)
@@ -90,7 +90,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 2. {die in deze fase}
 3. {doorlopen worden}
 
-#### Resources
+#### Materiaal
 
 - [Resource](https://example.com)
 - [Resource](https://example.com)
@@ -108,7 +108,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 2. {die in deze fase}
 3. {doorlopen worden}
 
-#### Resources
+#### Materiaal
 
 - [Resource](https://example.com)
 - [Resource](https://example.com)
