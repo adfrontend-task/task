@@ -1,0 +1,179 @@
+body {
+    padding:1rem
+}
+h1 {
+    position: relative;
+    float:left;
+}
+h1 strong {
+    position:absolute;
+    top:-1.5rem;
+    right:1rem;
+    background: var(--highlight-secondary);
+    border-radius: var(--radius);
+    font-size: 1rem;
+    font-weight:normal;
+    padding:.25rem .5rem
+}
+main {
+    color:var(--secondary)
+}
+section {
+    border-radius: var(--radius);
+    position: relative;
+}
+main > section {
+    padding: 1rem;
+    margin: 5rem 0 1rem;
+    background-color: var(--highlight-secondary);
+}
+
+section h2,
+footer h2 {
+    padding: 1rem;
+    position: absolute;
+    top: -4.7rem;
+    margin-left: -1rem;
+    background: var(--highlight-secondary);
+    border-radius: var(--radius);
+}
+section:first-of-type h2 {
+    width:85%;
+}
+section h2 + p,
+section section > h3 + p {
+    font-style: italic;
+    background:none;
+    margin-bottom: 1rem;
+}
+section section h3 + p {
+    color:var(--highlight-primary);
+    padding:0;
+}
+section section {
+    background-color: var(--secondary);
+    padding: 1rem 1rem 1rem;
+    overflow: hidden;
+    margin-bottom:1rem;
+
+}
+section h3 {
+    color: var(--primary);
+    margin: 0 0 .5rem;
+    font-weight: normal;
+}
+section section > * + *:nth-child(3) {
+    border-radius:var(--radius) var(--radius) 0 0;
+}
+section section > * + * {
+    display:none;
+    background-color:var(--highlight-primary);
+    border-radius:none;
+    padding:1rem;
+    position: relative;
+    margin:0
+}
+section section.active > * + * {
+    display:block;
+}
+section section * + *:last-child {
+    border-radius:0 0 var(--radius) var(--radius);
+}
+
+ul, ol {
+    padding-left:2rem !important;
+}
+
+dl {
+    display:flex;
+    flex-wrap:wrap;
+}
+dt {
+    width:25%;
+}
+dd {
+    width:60%;
+    margin:0;
+    font-weight: bold;
+}
+
+footer {
+    background-color: var(--highlight-primary);
+    padding:1rem;
+    color:var(--secondary);
+    border-radius:0 var(--radius)  var(--radius)  var(--radius) ;
+    position: relative;
+}
+footer h2 {
+    background-color: var(--highlight-primary);
+    width:30%;
+    top:-1.25rem;
+    left:calc(-30% + 1rem);
+    border-radius: var(--radius) 0 0  var(--radius) 
+}
+footer a {
+    color:var(--highlight-secondary);
+    text-decoration: underline;
+}
+footer a:hover {
+    text-decoration: none;
+}
+footer dl,
+footer ul{
+    background-color:var(--secondary);
+    border-radius:var(--radius);
+    padding:1rem;
+    position: relative;
+    margin:0;
+    color:var(--highlight-secondary)
+}
+footer ul {
+    padding-left:1rem !important;
+    list-style:none;
+    display:flex;
+    flex-direction:column;
+    align-items: flex-start;
+}
+footer ul li {
+    margin: .25rem 0;
+}
+
+footer ul:last-of-type {
+    list-style:none;
+    padding:.5rem .5rem 1rem !important;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+footer ul:last-of-type li,
+footer ul li.active {
+    margin:.5rem 0 0 .5rem;
+    padding:.25rem;
+    color:var(--secondary);
+    border-radius:calc(var(--radius) / 2);
+    background-color:var(--highlight-secondary);
+}
+footer ul li.active {
+    margin:0;
+}
+footer ul li.active a {
+    color: var(--secondary)
+}
+
+@media (min-width:40em) {
+    body {
+        display:grid;
+        grid-template-columns: 2fr 1fr;
+        grid-gap:1rem
+    }
+    header {
+        grid-column: 1 / -1;
+    }
+    main {
+        grid-column: 1 / 2;
+    }
+    footer {
+        grid-column: 2 / 3;
+        align-self: start;
+    }
+}
