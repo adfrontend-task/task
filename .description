@@ -1,5 +1,6 @@
 ---
-title: "descriptive title"          # Same as repo name but with spaces and caps
+title: "task title"                 # Same as repo name but with spaces and caps
+subtitle: "descriptive title"       # A descriptive title for this specific task
 client: "The client name"           # Name of the client for this task
 description: "short description"    # Max. 280 characters in description
 semester: 1-4                       # Please choose only one semester
