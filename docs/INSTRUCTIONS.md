@@ -1,10 +1,15 @@
-# Visitekaartje
+De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
+Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 
-Verbeter het Visual Interface Design van je visitekaartje door vormgevings en interactie principes zoals kleur, contrast en typografie toe te passen. 
+# {Naam}
+
+{Beschrijving van de leertaak}.
 
 ## Context
+*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Deze leertaak hoort bij sprint 1 "Your Tribe"}. Dit is een uitbreidings taak die je individueel uitvoert.
+Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
