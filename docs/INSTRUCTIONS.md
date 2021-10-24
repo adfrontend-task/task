@@ -25,7 +25,7 @@ Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van
 
 <table>
     <tr>
-        <td colspan="4">Week 1</td>
+        <td colspan="4">_Week 1_</td>
     </tr>
     <tr>
         <td>Maandag</td>
@@ -40,7 +40,7 @@ Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van
         <td>Debriefing</td>
     </tr>
     <tr>
-        <td colspan="4">Week 2</td>
+        <td colspan="4">_Week 2_</td>
     </tr>
     <tr>
         <td>Dinsdag, woensdag of donderdag</td>
@@ -49,7 +49,7 @@ Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van
         <td>Feedbacksessie</td>
     </tr>
     <tr>
-        <td colspan="4">Week 3</td>
+        <td colspan="4">_Week 3_</td>
     </tr>
     <tr>
         <td>Donderdag</td>
