@@ -23,6 +23,43 @@ Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van
 
 {beschrijf de taak in actieve taal: Je leert hoe...}
 
+<table>
+    <tr>
+        <td colspan="4">Week 1</td>
+    </tr>
+    <tr>
+        <td>Maandag</td>
+        <td>{datum}</td>
+        <td>13:00 uur *</td>
+        <td>Briefing</td>
+    </tr>
+    <tr>
+        <td>Dinsdag</td>
+        <td>{datum}</td>
+        <td>13:00 uur *</td>
+        <td>Debriefing</td>
+    </tr>
+    <tr>
+        <td colspan="4">Week 2</td>
+    </tr>
+    <tr>
+        <td>Dinsdag, woensdag of donderdag</td>
+        <td>{datum}</td>
+        <td>13:00 uur *</td>
+        <td>Feedbacksessie</td>
+    </tr>
+    <tr>
+        <td colspan="4">Week 3</td>
+    </tr>
+    <tr>
+        <td>Donderdag</td>
+        <td>{datum}</td>
+        <td>13:00 uur *</td>
+        <td>Oplevering</td>
+    </tr>
+</table>
+* vanaf 13:00 uur
+
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
 
