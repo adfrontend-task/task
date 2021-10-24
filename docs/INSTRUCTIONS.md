@@ -25,7 +25,7 @@ Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van
 
 <table>
     <tr>
-        <td colspan="4">*Week 1*</td>
+        <td colspan="4">**Week 1**</td>
     </tr>
     <tr>
         <td>Maandag</td>
