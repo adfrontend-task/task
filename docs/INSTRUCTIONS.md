@@ -188,7 +188,7 @@ Focus sprint 12 - De focus van deze sprint ligt op werkwijze en hoe je een opdra
 
 
 
-Deze leertaak hoort bij het gedragscriterium:
+### Deze leertaak hoort bij het gedragscriterium:
 
 {benoem de betreffende gedrasgcriteria}
 
