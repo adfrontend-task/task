@@ -183,8 +183,8 @@ Focus sprint 9 - De focus van deze sprint ligt op gebruiksvriendelijkheid, toega
 
 Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten werken van een applicatie, ook als er geen verbinding is met het internet.
 
-Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server. Job Stories, wireflowing, realtime en data management.
+Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server. 
 
-Focus sprint 12 - De focus van deze sprint ligt op werkwijze en samenwerken, en hoe je een opdrachtgever kan helpen met het uitwerken van een concept. Iteratief (samen) werken: prototypen en testen om een concept te realiseren.
+Focus sprint 12 - De focus van deze sprint ligt op werkwijze en hoe je een opdrachtgever kan helpen met het uitwerken van een concept. 
 
 
