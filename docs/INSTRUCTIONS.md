@@ -160,8 +160,6 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 ## Criteria
 *Definitions of done*
 
-{beschrijf de definitions of done}
-
 Focus sprint 1 - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design. Hoe gaan werken we bij FDND, wat wordt er van de student verwacht, welke mindset is nodig. Succes ervaren.
 
 Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
@@ -188,3 +186,12 @@ Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omge
 Focus sprint 12 - De focus van deze sprint ligt op werkwijze en hoe je een opdrachtgever kan helpen met het uitwerken van een concept. 
 
 
+
+
+Deze leertaak hoort bij het gedragscriterium:
+
+{benoem de betreffende gedrasgcriteria}
+
+Deze opdracht is done als:
+
+[ ] - {beschrijf de definitions of done}
