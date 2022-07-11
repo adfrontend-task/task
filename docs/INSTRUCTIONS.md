@@ -1,6 +1,7 @@
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+<!--
+De conventie voor naamgeving is sprintnaam-(sub)taaknaam
+Topics: semester-naam, semesternummer, sprint-naam, sprint-nummer
+-->
 
 # {Naam}
 
@@ -12,53 +13,15 @@ Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
 
 
-## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
+## User story
+*Kies een user story uit de backlog van jou project.*
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+{Beschrijf de opdracht aan de hand van de gekozen user story}
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
 {beschrijf de taak in actieve taal: Je leert hoe...}
-
-<table>
-    <tr>
-        <td colspan="4"><b>Week 1</b></td>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Briefing</td>
-    </tr>
-    <tr>
-        <td>Dinsdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Debriefing</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 2</b></td>
-    </tr>
-    <tr>
-        <td>Dinsdag, woensdag of donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Feedbacksessie</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 3</b></td>
-    </tr>
-    <tr>
-        <td>Donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Oplevering</td>
-    </tr>
-</table>
-* vanaf 13:00 uur
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
@@ -184,8 +147,6 @@ Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten we
 Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server. 
 
 Focus sprint 12 - De focus van deze sprint ligt op werkwijze en hoe je een opdrachtgever kan helpen met het uitwerken van een concept. 
-
-
 
 
 ### Deze leertaak hoort bij het gedragscriterium:
