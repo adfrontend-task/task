@@ -50,10 +50,9 @@ Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepas
 
 Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten.	Het doel van deze sprint is binding tussen studenten creeeren. Met deze squad ga je het doen! Samen studeren, leren en elkaar helpen. En iets gezamenlijks maken met een database dingen. Een sneak peak naar de rest van het semester.
 
-Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je externe data kan laden en presenteren. Je hebt data, die ga je laden en tonen, zodat iemand daar iets mee kan doen.
-dat betekent veel voor de interfcace, het laden van de data kost tijd en de data kan veranderen, hoe toon je dat en hoe zorg je dat je gebruiker 'controle' ervaart.
+Focus sprint 8 - De focus van deze sprint ligt hoe leren hoe je externe data kan laden en presenteren. Op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Server site rendering leren. Progressive enhancement leren (HTML / CSS). Core functionaliteit kunnen bepalen en implementeren.
 
-Focus sprint 9 - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Server site rendering leren. Progressive enhancement leren. Core functionaliteit kunnen bepalen en implementeren				
+Focus sprint 9 - 	De focus van deze sprint ligt ophoe je data gaat laden en tonen, zodat iemand daar iets mee kan doen. dat betekent veel voor de interface, het laden van de data kost tijd en de data kan veranderen, hoe toon je dat en hoe zorg je dat je gebruiker 'controle' ervaart. Progressive enhancement (JavaScript) leren. 
 
 Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten werken van een applicatie, ook als er geen verbinding is met het internet.
 
