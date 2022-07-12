@@ -8,10 +8,7 @@ Topics: semester-naam, semesternummer, sprint-naam, sprint-nummer
 Beschrijving van de leertaak
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
-
 Deze leertaak hoort bij [sprint # "titel van de sprint"]. Dit is een [niveau van de opdracht] die je [individueel, in team] uitvoert voor [opdrachtgever]
-
 
 ## User story
 *Kies een user story uit de backlog van jou project. [FDND Projecten](https://github.com/fdnd-agency) *
