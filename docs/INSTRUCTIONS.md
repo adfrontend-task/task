@@ -3,30 +3,28 @@ De conventie voor naamgeving is sprintnaam-(sub)taaknaam
 Topics: semester-naam, semesternummer, sprint-naam, sprint-nummer
 -->
 
-# {Naam}
+# Naam
 
-{Beschrijving van de leertaak}.
+Beschrijving van de leertaak
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Deze leertaak hoort bij [sprint # "titel van de sprint"]. Dit is een [niveau van de opdracht] die je [individueel, in team] uitvoert voor [opdrachtgever]
 
 
 ## User story
 *Kies een user story uit de backlog van jou project. [FDND Projecten](https://github.com/fdnd-agency) *
 
-{Beschrijf de opdracht aan de hand van de gekozen user story}
+Beschrijf de opdracht aan de hand van de gekozen user story
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
+beschrijf de taak in actieve taal: Je leert hoe...
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
-
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
