@@ -1,6 +1,6 @@
 <!--
 De conventie voor naamgeving is sprintnaam-(sub)taaknaam
-Topics: semester-naam, semesternummer, sprint-naam, sprint-nummer
+Topics: (sub)task semester-naam, semesternummer, sprint-naam, sprint-nummer
 -->
 
 # Naam
@@ -10,110 +10,28 @@ Beschrijving van de leertaak
 ## Context
 Deze leertaak hoort bij [sprint # "titel van de sprint"]. Dit is een [niveau van de opdracht] die je [individueel, in team] uitvoert voor [opdrachtgever]
 
-## User story
-*Kies een user story uit de backlog van jou project. [FDND Projecten](https://github.com/fdnd-agency) *
-
-Beschrijf de opdracht aan de hand van de gekozen user story
-
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
 beschrijf de taak in actieve taal: Je leert hoe...
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
+*De werkwijze volgt de fasering van de DLC*
 
-Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt.
+De development lifecycle kent de volgende stappen:
 
-### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
+1. Analyseren - bijvoorbeeld: grip krijgen op een taak door gesprekken met een opdrachtgever, schrijven van een debriefing, maken van een todo lijst, inventarisatie van bestaande informatie, overzicht creëren, plannen, definition of done etc.
+2. Ontwerpen - bijvoorbeeld: het maken van idee-schetsen, customer journey, breakdown chart, wireflows, navigatiestructuur en layout.
+3. Bouwen - bijvoorbeeld: toepassen van webtechnologie (HTML, CSS, JS), gebruik van tooling, werken volgens conventies en wetgeving, documenteren en bijhouden van een changelog.
+4. Integreren - bijvoorbeeld: publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, ftp-en.
+5. Testen - bijvoorbeeld: Unit testing (TDD), System test, User test, device lab test, A\B testing.
 
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal analysefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal ontwerpfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal bouwfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal integratiefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal testfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
+### Aanpak
+1. Kies een user story uit de backlog van het project waar je aan gaat werken. De projecten staan bij [FDND Agency](https://github.com/fdnd-agency).  
+2. Fork de leertaak
+3. Hou je proces bij in de Wiki van de geforkte repository
+4. En schrijf een goede readme
 
 ## Criteria
 *Definitions of done*
@@ -142,12 +60,3 @@ Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten we
 Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server. 
 
 Focus sprint 12 - De focus van deze sprint ligt op werkwijze en hoe je een opdrachtgever kan helpen met het uitwerken van een concept. 
-
-
-### Deze leertaak hoort bij het gedragscriterium:
-
-{benoem de betreffende gedrasgcriteria}
-
-Deze opdracht is done als:
-
-[ ] - {beschrijf de definitions of done}
