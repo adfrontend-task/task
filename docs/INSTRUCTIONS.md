@@ -16,7 +16,10 @@ Deze leertaak hoort bij [sprint # "titel van de sprint"]. Dit is een [niveau van
 beschrijf de taak in actieve taal: Je leert hoe...
 
 ## Werkwijze
+![Opdrachtomschrijving](opdrachtomschrijving.png)
+
 *De werkwijze volgt de fasering van de DLC*
+
 
 Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt.
 De development lifecycle kent de volgende stappen:
