@@ -1,26 +1,13 @@
-<!--
-De conventie voor naamgeving is sprintnaam-(sub)taaknaam
-Topics: (sub)task semester-naam, semesternummer, sprint-naam, sprint-nummer
--->
-
 # Naam
-
-Beschrijving van de leertaak
+Ontwerp en maak voor een opdrachtgever een component of website op basis van een bestaande huisstijl 
 
 ## Context
-Deze leertaak hoort bij [sprint # "titel van de sprint"]. Dit is een [niveau van de opdracht] die je [individueel, in team] uitvoert voor [opdrachtgever]
+Deze leertaak hoort bij sprint 4 Look and Feel. Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
-
-beschrijf de taak in actieve taal: Je leert hoe...
+Je leert hoe onderdelen van een website op basis van een bestaande huisstijl maakt.
 
 ## Werkwijze
-![Opdrachtomschrijving](opdrachtomschrijving.png)
-
-*De werkwijze volgt de fasering van de DLC*
-
-
 Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt.
 De development lifecycle kent de volgende stappen:
 
@@ -32,23 +19,24 @@ De development lifecycle kent de volgende stappen:
 
 ### Aanpak
 1. Kies een user story uit de backlog van het project waar je aan gaat werken. De projecten staan bij [FDND Agency](https://github.com/fdnd-agency).  
-2. Fork de leertaak
-3. Hou je proces bij in de Wiki van de geforkte repository
-4. En schrijf een goede readme
+2. Fork deze leertaak
+3. Kopieer/plak de user story waar jij aan gaat werken naar de Wiki van de geforkte repository, dit ga je ontwerpen en maken
+4. Documenteer je proces a.h.v de development life cycle
+5. En schrijf een goede readme
 
 ## Criteria
 
-Focus sprint # - De focus in deze sprint ligt op ...
+De focus van deze sprint ligt op het toepassen van een huisstijl en het maken van formulieren.
 
-Voor deze leertaak gelden de gedragscriteria voor sprint #: 
-...
+Voor deze leertaak gelden de gedragscriteria voor sprint 4: 
+* Methodisch handelen: ...
+* Samenwerken: ...
+* Communiceren: ...
+* Probleemoplossend vermogen: ...
+* Lerend vermogen: ...
 
 Deze opdracht is done als:
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
-
-
+- [ ] je hebt gewerkt volgens de verschillende fases van de development-lifecycle
+- [ ] je hebt je werk gedocumenteerd in de Readme en Wiki (user story, ontwerpbeslissingen, schetsen en code voorbeelden)
+- [ ] de website op Github staat en een live url heeft
 
