@@ -1,11 +1,11 @@
 
-# [sprintnaam] - [leertaak-naam]
+# [Sprintnaam] - [Leertaak-Naam]
 
-Beschrijving van de deeltaak
+[Beschrijving van de deeltaak]
 
 ## Context
 
-Deze leertaak hoort bij sprint # [sprintnaam]. 
+Deze leertaak hoort bij sprint # [Sprintnaam]. 
 Dit is een leertaak die je [individueel / in een team] uitvoert.
 
 In het college [[collegenaam](link)] wordt behandeld ... 
