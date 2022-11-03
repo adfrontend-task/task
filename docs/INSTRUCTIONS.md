@@ -17,7 +17,7 @@ Bij deze leertaak [hoort de deeltaak / horen de deeltaken]:
 
 ## Doel van deze opdracht
 
-Je leert hoe onderdelen van een website op basis van een bestaande huisstijl maakt.
+Je leert hoe je ... 
 
 ## Werkwijze
 
