@@ -40,7 +40,7 @@ De development lifecycle kent de volgende stappen:
 
 ## Criteria
 
-De focus van deze sprint ligt op het toepassen van een huisstijl en het maken van formulieren.
+Focus sprint # - De focus van deze sprint ligt op ...
 
 Voor deze leertaak gelden de gedragscriteria voor sprint #: 
 * Methodisch handelen: ...
