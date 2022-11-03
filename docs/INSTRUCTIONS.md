@@ -6,7 +6,7 @@ Beschrijving van de deeltaak
 ## Context
 
 Deze leertaak hoort bij sprint # [sprintnaam]. 
-Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Dit is een leertaak die je [individueel / in een team] uitvoert.
 
 In het college [[collegenaam](link)] wordt behandeld ... 
 
